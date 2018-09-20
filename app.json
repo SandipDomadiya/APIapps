@@ -1,0 +1,22 @@
+{
+  "id": "79bd9e2e-9243-4033-91ba-561fa98f4051",
+  "name": "APIApps",
+  "publisher": "MQ publisher",
+  "brief": "",
+  "description": "",
+  "version": "1.0.0.0",
+  "privacyStatement": "",
+  "EULA": "",
+  "help": "",
+  "url": "",
+  "logo": "",
+  "capabilities": [],
+  "dependencies": [],
+  "screenshots": [],
+  "platform": "12.0.0.0",
+  "application": "12.0.0.0",
+  "idRange": {
+    "from": 50140,
+    "to": 50150
+  }
+}
